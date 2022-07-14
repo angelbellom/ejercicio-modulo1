@@ -1,0 +1,59 @@
+body {
+  color: #ffff;
+  font-family: oswald;
+ background: black;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+
+.navbar-brand img {
+  height: 25px;
+  width: 25px;
+
+}
+.navbar-brand {
+  font-size: 15pt;
+
+}
+
+header {
+  width: 100%;
+}
+
+
+h2{
+
+    margin-left: 40%;
+    margin-right:40% ;
+
+}
+
+.card-header img{
+
+ 
+    height: 15vw;
+    object-fit: cover;
+    width: 100%;
+}
+
+.img_lista{
+
+  background: rgb(13, 163, 239);
+  color: #ffff;
+}
+
+
+.caja1{
+color: black;
+    height: 300pt;
+    width: 100%;
+ background-color: #ffff;
+    padding-bottom: 20pt;
+}
+
+.caja1 h3 {
+
+  padding-top: 15%;
+}
+
